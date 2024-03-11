@@ -1,11 +1,11 @@
-body {
+/* body {
   height: auto;
   display: grid;
   place-items: center;
-}
+} */
 .btn-main-div {
   margin-top: 60px;
-  text-align: center;
+  /* text-align: center; */
 }
 .btn-div {
   display: flex;
